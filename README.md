@@ -7,3 +7,14 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.idea.int%2Fg
 
 
 https://www.imf.org/en/Publications/WEO/weo-database/2023/April/download-entire-database
+
+
+
+
+-Data will be hosted in an Azure SQL server post modeling
+-Azure Function apps to call endpoints from SQL server
+-D365 button to call plug-in webhook
+
+
+
+https://d365demystified.com/2020/03/19/call-azure-function-from-dynamics-365-crm-using-webhooks/
