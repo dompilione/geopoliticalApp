@@ -18,3 +18,15 @@ https://www.imf.org/en/Publications/WEO/weo-database/2023/April/download-entire-
 
 
 https://d365demystified.com/2020/03/19/call-azure-function-from-dynamics-365-crm-using-webhooks/
+
+
+
+
+DESIGN:
+
+Building a ASP.Net Core Web API, utilizing an Azure Web App service to call data from an Azure SQL DB.
+
+High level Steps:
+
+Configure Azure SQL DB with table structure, and import data using the Azure Data Factory service
+
